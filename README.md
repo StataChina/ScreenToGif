@@ -1,3 +1,18 @@
+## ScreenToGif 详细介绍(录制屏幕，制作GIF)
+
+Screen to Gif是一款方便好用的小软件，可以用来快速录制屏幕上的指定区域，将其直接保存为GIF动画文件。其目前版本号为0.6，尽管不是最终版本，但十分可靠，推荐需要的用户下载使用。
+
+### 软件特性：
+- 录制屏幕指定区域，直接保存为gif动画文件；
+- 点击可暂停或继续录制；
+- 可自行选择录制区域；
+- 在录制过程中可继续运行其他应用或窗口；
+- 可删除边框；
+- 选择一个文件夹来保存文件或直接将文件保存至桌面；
+- 可在录制文件中添加系统光标；
+- 是一款.exe文件，占用空间小，十分便携；
+- 使用F键开始/暂停或停止录制。
+
 <p align="center">
 <a href="https://github.com/NickeManarin/ScreenToGif" target="_blank">
 <img align="center" alt="screen recorder" src="https://github.com/NickeManarin/ScreenToGif-Website/blob/master/img/ms-icon-150x150.png" />
